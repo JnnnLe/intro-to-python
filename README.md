@@ -1,2 +1,2 @@
 # intro-to-python
-Learning Python 
+Learning Python by doing
